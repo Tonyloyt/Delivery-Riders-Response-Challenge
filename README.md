@@ -49,7 +49,7 @@ After problem and hypothesis framing, the next task was EDA with the dataset giv
 
 Also I did Bivariate & multivariate Analysis on the features to understand the distribution and correlations.
 
-The EDA work and observations can be found in this detailed and separate [notebook]()
+The EDA work and observations can be found in this detailed and separate [notebook](https://github.com/Tonyloyt/Delivery-Riders-Response-Challenge/blob/main/notebook/Sendy_Delivery_Rider_Response_challenge_EDA.ipynb)
 
 
 ## PART C: FEATURE ENGINEERING
@@ -60,7 +60,7 @@ Here i generated `hours` per order to complete,`distances` and `rating factors`
 
 Also some distribution analysis on the generated features using histogram plots.
 
-Work relating to this task can be found in this [notebook]()
+Work relating to this task can be found in this [notebook](https://github.com/Tonyloyt/Delivery-Riders-Response-Challenge/blob/main/notebook/Sendy_Delivery_Rider_Response_challenge_FEATURE%20ENGINEERING.ipynb)
 
 
 ## PART D: MODEL BUILDING AND EVALUATION
@@ -71,7 +71,7 @@ I ended up with catboost , perfoms better when categorical features are not ecod
 
 Evaluation metrics used are accuracy and confusion matrix
 
-The notebook to the task can be found [here]().
+The notebook to the task can be found [here](https://github.com/Tonyloyt/Delivery-Riders-Response-Challenge/blob/main/notebook/Sendy_Delivery_Rider_Response_challenge_MODELLING.ipynb).
 
 
 ## REPORTING, INSIGHTS AND RECOMMENDATION
