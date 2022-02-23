@@ -1,9 +1,7 @@
 #  SENDY DELIVERY RIDER RESPONSE CHALLENGE(INTERMEDIATE CHALLENGE UMOJAHACK 2021)
 
 
-<center>
- <img src="https://zindpublic.blob.core.windows.net/public/uploads/competition/image/152/thumb_c5ec4e2a-e000-4176-a93c-dd1143c2b60f.png">
-</center>
+<center> <img src="https://zindpublic.blob.core.windows.net/public/uploads/competition/image/152/thumb_c5ec4e2a-e000-4176-a93c-dd1143c2b60f.png"></center>
 
 Data science competitions are the best platform to practise and learn new skills. It depends with yourself on how you look at it.
 
